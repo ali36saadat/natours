@@ -22,6 +22,3 @@ npm install
 ```bash
 npm start
 ```
-
-## Links
- **[REPO LINK](https://github.com/ali36saadat/natours)**
