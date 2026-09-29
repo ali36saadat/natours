@@ -1,26 +1,27 @@
-## Sass Project - NATOURS
-![NATOURS - Headder](https://github.com/user-attachments/assets/0fdd96a6-2bf4-4425-a156-218abb653e92)
+# Natours
+<a href="https://ali36saadat.github.io/repositories/natours">
+  <img src="https://github.com/user-attachments/assets/7ec0cb9e-7a92-4adb-959f-0eaa56b8263a" alt="header">
+</a>
 
-## Work With ( Sass )
-1. PURE POPUP CSS
-2. BACKGROUND VIDEO
-3. ANIMATIONS
-4. MIXIN & KEYFRAMES
-5. PSEUDO CLASS
-6. MEDIA QUERIES
-7. RESPONSIVE IMAGES
+## Description
+Natours is a Sass learning project that demonstrates modern CSS styling techniques like mixins, keyframes, and media queries. It combines SCSS and HTML to create responsive, animated web designs with features like popup CSS, background videos, and adaptive image handling.
 
 ## Usage
 **Requirements:** `node` 21.5.0 or higher, `npm` 10.8.3 or higher
 
-### Step 1: Install Dependencies 
-```node js
+1: Clone
+```bash
+git clone https://github.com/ali36saadat/natours.git
+cd natours
+```
+2: Install Dependencies 
+```bash
 npm install
 ```
-### Step 2: Run 
-```node js
+3: Run
+```bash
 npm start
 ```
 
-# Socials
-![Socials](https://github.com/user-attachments/assets/fadc9693-0680-471b-bc2a-cc85cd85b566)
+## Links
+ **[REPO LINK](https://github.com/ali36saadat/natours)**
